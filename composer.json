@@ -1,0 +1,20 @@
+{
+    "name": "marcellopato/cnpj-cpf-format",
+    "description": "A simple library for formatting CNPJ and CPF numbers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcello Pato",
+            "email": "marcellocorreia@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Marcellopato\\CnpjCpfFormat\\": "src/"
+        }
+    }
+}
